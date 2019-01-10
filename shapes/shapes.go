@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-func main()  {
+func main() {
 
 	circle := new(assignment.Circle)
 	circle.SetRadius(5.0)
